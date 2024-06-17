@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tanto-ganas-tanto-pierdes/"}
+{"dg-publish":true,"permalink":"/tanto-ganas-tanto-pierdes/","tags":["gardenEntry"]}
 ---
 
 <iframe title="Verde70 - TANTO GANAS TANTO PIERDES" src="https://www.youtube.com/embed/DbECwfOasIA?feature=oembed" height="113" width="200" allowfullscreen="" allow="fullscreen" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;"></iframe>
@@ -94,4 +94,4 @@ Tanto ganas
 Tanto ganas, tanto, tanto pierdes  
 Tanto pierdes
 
-Eso
+
